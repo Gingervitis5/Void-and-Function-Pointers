@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utils/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/grahammix/Documents/CSCD240/Lab14/stock/stock.c
+stock.h
+/home/grahammix/Documents/CSCD240/Lab14/stock/stock.h
+utils.h
+/home/grahammix/Documents/CSCD240/Lab14/stock/utils.h
+
+/home/grahammix/Documents/CSCD240/Lab14/stock/stock.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

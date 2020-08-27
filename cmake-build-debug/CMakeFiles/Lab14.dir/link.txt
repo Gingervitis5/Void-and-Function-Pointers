@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lab14.dir/utils/fileUtils.c.o CMakeFiles/Lab14.dir/utils/utils.c.o CMakeFiles/Lab14.dir/cscd240Lab14.c.o CMakeFiles/Lab14.dir/genericArray/genericArray.c.o CMakeFiles/Lab14.dir/stock/stock.c.o  -o Lab14 
